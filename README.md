@@ -12,6 +12,6 @@ Il sert de référence visuelle pour les implémentations dynamiques de la suite
 
 ## 🔗 Écosystème Blueprint
 Ce projet fait partie d'une suite industrielle :
-1. **[blueprint-admin-static](https://github.com/ericNyandw/blueprint-admin-static.git)** (Ce dépôt) : Maquette HTML/CSS.
-2. **blueprint-admin-angular** : Implémentation fonctionnelle.
-3. **blueprint-admin-core** : Starter Kit & Architecture réutilisable.
+1. **[blueprint-admin-static](https://github.com/ericNyandw/blueprint-admin-static.git)** (Ce dépôt) : Maquette HTML/CSS/Boostrap/JavaScript.
+2. **[blueprint-admin-angular](https://github.com/ericNyandw/blueprint-admin-angular.git)** : Implémentation fonctionnelle.
+3. **[blueprint-admin-core](https://github.com/ericNyandw/blueprint-admin-core.git)** : Starter Kit & Architecture réutilisable.
